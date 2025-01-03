@@ -1,4 +1,4 @@
-# sum2png
+# Sum script
 This script is designed for efficient handling of small, low-pixel images, ensuring fast and accurate pixel manipulation, editing, and processing. Optimized specifically for small images, the script guarantees minimal resource consumption and maximum execution speed, making it ideal for projects requiring high performance even when processing a large volume of small files.
 
 Key Features:
